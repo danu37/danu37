@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danu Anggo
+#  Hi, I'm Danu Anggo
 
 ### Backend Developer | Laravel & API Enthusiast
 
@@ -18,11 +18,11 @@ I'm a developer from Indonesia 🇮🇩 who enjoys building web applications and
 
 My main focus is backend development, particularly building RESTful APIs with Laravel and PHP. I also explore modern frontend technologies to understand the complete application development process.
 
-- 🔭 Currently building web applications and REST APIs.
-- 🌱 Learning software architecture, clean code, and system design.
-- ⚙️ Interested in backend engineering and database optimization.
-- 🎯 Working towards becoming a professional software engineer.
-- 🤝 Open to collaboration and interesting projects.
+-  Currently building web applications and REST APIs.
+-  Learning software architecture, clean code, and system design.
+-  Interested in backend engineering and database optimization.
+-  Working towards becoming a professional software engineer.
+-  Open to collaboration and interesting projects.
 
 ---
 
